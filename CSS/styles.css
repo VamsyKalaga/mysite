@@ -1,0 +1,101 @@
+body {
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+}
+h1 {
+  color: #66bfbf;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: "Sacramento", cursive;
+}
+h2 {
+  color: #66bfbf;
+  font-size: 2.5rem;
+  font-family: "Poppins", sans-serif;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+h3 {
+  color: #66bfbf;
+}
+p {
+  line-height: 2;
+}
+hr {
+  width: 5%;
+  border: dotted #078f8f 6px;
+  border-bottom: none;
+  margin: 100px auto;
+}
+.pro {
+  text-decoration: underline;
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+.intro {
+  width: 30%;
+  margin: auto;
+}
+.top-container {
+  background: #eaf6f6;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container {
+  margin: 100px 0;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.code-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.chille-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.contactme-para {
+  width: 50%;
+  margin: 40px auto 60px;
+}
+.contactme-link {
+  background-color: #66bfbf;
+  color: white;
+  padding: 10px;
+  font-weight: bolder;
+  border-radius: 10%;
+}
+.bottom-container {
+  margin-top: 50px;
+  padding: 20px 0 50px;
+  background-color: #66bfbf;
+}
+.contactme-link:hover {
+  background-color: rgb(213, 185, 24);
+}
+.bottom-container a {
+  color: #1f8286;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+.bottom-container a:hover {
+  color: white;
+}
+.bottom-container h3 {
+  color: #eaf6f6;
+}
